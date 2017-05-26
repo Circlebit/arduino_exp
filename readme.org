@@ -5,5 +5,14 @@ The rest of this readme file is used as a notepad.
 
 * General Notes
 ** including Arduino.h
- - while not neccessary in .ino files in Arduino IDE required in a .cpp
- - include "Arduino.h"
+ - while not neccessary in .ino files in Arduino IDE, it is required in a .cpp
+ - ~#include "Arduino.h"~
+ - src_c++{#include "Arduino.h"}
+** Emacs/Spacemacs
+*** Magit Workflow
+ - [[https://www.reddit.com/r/spacemacs/comments/4a62la/magit_tutorial/d0y3jbt/][basic magit commands]]
+*** Emacs and Arduino
+
+* Experiments
+** blink
+the 'hello world' of micro processors.
