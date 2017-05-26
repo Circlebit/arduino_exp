@@ -1,6 +1,6 @@
 #+TITLE: Arduino Experiments
 
-Just a repo for my personal experiments and practices on Arduino (and git).
+A repo for my personal experiments and practices on Arduino (and git).
 The rest of this readme file is used as a notepad.
 
 * General Notes
