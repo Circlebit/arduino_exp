@@ -1,0 +1,9 @@
+#+TITLE: Arduino Expreiments
+
+Just a repo for my personal experiments and practices on Arduino.
+The rest of this readme file is used as notepad.
+
+* General Notes
+** including Arduino.h
+**** while not neccessary in .ino files in Arduino IDE required in a .cpp
+**** #include "Arduino.h"
